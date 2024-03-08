@@ -1,2 +1,2 @@
-# jenkins-projrct
+# jenkins-project
 docker-studentdatabase
