@@ -1,0 +1,8 @@
+---
+become: true
+hosts: all
+tasks:
+  - name: Install the latest version of Apache
+    ansible.builtin.yaml:
+      name: httpd
+      state: latest
